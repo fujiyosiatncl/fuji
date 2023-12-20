@@ -1,1 +1,3 @@
 this is development mode
+you can add any file you like
+but limited to only those related to develop or tech
